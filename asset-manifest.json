@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/sample-project.git/static/js/main.e1847875.js",
+    "index.html": "/sample-project.git/index.html",
+    "main.e1847875.js.map": "/sample-project.git/static/js/main.e1847875.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e1847875.js"
+  ]
+}
